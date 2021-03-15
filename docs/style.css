@@ -1,8 +1,8 @@
 
 body section section {
-background-color: Cream; /*#fffcc;*/
+background-color: rgb(255,255,204);
 /* ebb: Looking for colors and color codes? Try the HTML color picker: https://www.w3schools.com/colors/colors_picker.asp */
-color: Portage; /*9999ff;*/
+color: rgb(153,153,255);
 font-family: arial, helvetica, sans-serif;
 }
 
